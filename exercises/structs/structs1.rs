@@ -9,9 +9,15 @@
 
 struct ColorClassicStruct {
     // TODO: Something goes here
+    red: 
+    green:
+    blue:
 }
 
-struct ColorTupleStruct(/* TODO: Something goes here */);
+struct ColorTupleStruct(
+    /* TODO: Something goes here */
+    (red, green, blue)
+);
 
 #[derive(Debug)]
 struct UnitLikeStruct;

@@ -1,6 +1,6 @@
 ## 2025年春夏操作系统训练营
 
-
+> 我的仓库 - [点击跳转_LearningOS/2025s-rustling-Milefer7](https://github.com/LearningOS/2025s-rustling-Milefer7?tab=readme-ov-file)
 
 第一阶段将通过Rustlings进行测试，请按照以下步骤进行练习：
 
